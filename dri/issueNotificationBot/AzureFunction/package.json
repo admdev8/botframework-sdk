@@ -1,19 +1,19 @@
 {
-  "name": "support-tracker-function",
-  "version": "1.0.0",
-  "description": "",
-  "scripts": {
-    "start:local": "node local.js"
-  },
-  "dependencies": {
-    "axios": "^0.21.1",
-    "botframework-connector": "^4.10.0-preview-140956",
-    "dotenv": "^8.2.0"
-  },
-  "devDependencies": {
-    "@babel/cli": "^7.5.5",
-    "@babel/core": "^7.5.5",
-    "@babel/node": "^7.5.5",
-    "@babel/preset-env": "^7.5.5"
-  }
+    "name": "support-tracker-function",
+    "version": "1.0.0",
+    "description": "",
+    "scripts": {
+        "start:local": "node local.js"
+    },
+    "dependencies": {
+        "axios": "^0.21.1",
+        "botframework-connector": "^4.10.0-preview-140956",
+        "dotenv": "^8.2.0"
+    },
+    "devDependencies": {
+        "@babel/cli": "^7.5.5",
+        "@babel/core": "^7.5.5",
+        "@babel/node": "^7.5.5",
+        "@babel/preset-env": "^7.5.5"
+    }
 }
